@@ -1,4 +1,14 @@
 
+---
+permalink: /
+title: "Doctoral Researcher in AI for Science and Multimodal Machine Learning"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 I am a Doctoral Researcher at ÉTS Montréal working at the intersection of multimodal machine learning, representation learning, and AI for Science. My research focuses on developing learning systems that combine scientific modalities such as spectroscopy, imaging, and structured data to accelerate discovery in materials science. Before pursuing research, I spent eight years as a Senior Data Scientist at HSBC building machine learning models for financial risk prediction and decision-making.
 
 About Me
